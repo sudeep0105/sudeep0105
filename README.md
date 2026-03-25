@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Open-source full-stack web development or AI/ML projects that solve real-world problems.<br>🤝 I’m looking for help with Expanding my knowledge in Generative AI<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Java and Python Full Stack development, SQL, and building portfolio websites using HTML, CSS, and JavaScript.
+👯 I’m looking for Entry level full-stack web development or AI/ML projects that solve real-world problems.<br>🤝 I’m looking for help with Expanding my knowledge in Generative AI<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Java and Python Full Stack development, SQL, and building portfolio websites using HTML, CSS, and JavaScript.
 
 
 ## 🌐 Socials:
