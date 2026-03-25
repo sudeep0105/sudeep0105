@@ -1,5 +1,5 @@
-# 💫 About Me:
-👯 I’m looking for full-stack web development or AI/ML projects that solve real-world problems.<br>🤝 I’m looking for help with Expanding my knowledge in Generative AI<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Java and Python Full Stack development, SQL, and building portfolio websites using HTML, CSS, and JavaScript.
+# 💫 Hi I'm Venkata Sudeep, Java Full stack developer
+👯 I’m looking for Java full-stack development or AI/ML projects that solve real-world problems.<br>🤝 I’m looking for help with Expanding my knowledge in Generative AI<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Java and Python Full Stack development, SQL, and building portfolio websites using HTML, CSS, and JavaScript.
 
 
 ## 🌐 Socials:
