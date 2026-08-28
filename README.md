@@ -1,6 +1,6 @@
-# 💫 Hi I'm Venkata Sudeep, Java Full stack developer
-As a full-stack developer experienced in Java, SQL, and web technologies (HTML, CSS, JavaScript), I am actively expanding my expertise into Generative AI and looking to build real-world Java full-stack or AI/ML projects. I welcome any questions or discussions regarding full-stack web development, database management, and building portfolio websites, as well as opportunities to collaborate on innovative solutions.
+# Hi... I'm Venkata Sudeep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+As a full-stack developer experienced in Java, SQL, and web technologies (HTML, CSS, JavaScript), I am actively expanding my expertise into Generative AI and looking to build real-world Java full-stack or AI/ML projects. I welcome any questions or discussions regarding full-stack web development, database management, and building portfolio websites, as well as opportunities to collaborate on innovative solutions.
 
 ### 💻 Tech Stack:
 
