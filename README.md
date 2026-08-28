@@ -30,4 +30,3 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 * Currently building scalable full-stack applications with **Spring Boot & React**.
 * Exploring **Generative AI** integrations for backend systems.
 * Ask me about **Java, Spring Boot, REST APIs, and Database Design**.
-* How to reach me: [venkata.sudeep.k@gmail.com](mailto:venkata.sudeep.k@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/venkata-sudeep-k-043220380)
