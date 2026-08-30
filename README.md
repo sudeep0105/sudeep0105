@@ -1,4 +1,6 @@
-<h1 style="border-bottom: none;">Hi... I'm Venkata Sudeep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<div align="left">
+  <span style="font-size: 32px; font-weight: bold;">Hi... I'm Venkata Sudeep</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE;39FF14;FF007F&width=480&lines=Full+Stack+Java+Developer;Spring+Boot+%26+React+Specialist;Software+Development+Engineer)](https://git.io/typing-svg)
 
