@@ -14,26 +14,10 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
-### 💻 Programming Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js" alt="Programming Languages" />
-</p>
-
-### 🌐 Frontend Development:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Development" />
-</p>
-
-### ⚙️ Backend & Databases:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql" alt="Backend & Databases" />
-</p>
-
-### 🧰 Tools & DevOps:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,spring,fastapi,docker" alt="Tech Stack" />
 </p>
 
 ---
