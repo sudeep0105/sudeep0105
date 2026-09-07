@@ -14,27 +14,22 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ---
 
-### 💻 Tech Stack:
+## 🛠️ Tech Stack & Skills
 
-**Frontend Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
-</p>
+### 🌐 Frontend Development:
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" alt="React" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css" width="100" alt="HTML and CSS" />
 
-**Backend & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,fastapi" alt="Backend and Frameworks" />
-</p>
+### ⚙️ Backend Development & Frameworks:
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" alt="Java" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi" width="100" alt="Spring and FastAPI" />
 
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-</p>
+### 🗄️ Databases:
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" alt="MySQL" />
 
-**DevOps & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="DevOps and Tools" />
-</p>
+### 🔧 DevOps & Tools:
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" alt="Docker" />
 
 ---
 
