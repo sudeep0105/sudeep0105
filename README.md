@@ -14,22 +14,35 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ---
 
-## 🛠️ Tech Stack & Skills
 
-### 🌐 Frontend Development:
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" alt="React" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html,css" width="100" alt="HTML and CSS" />
+
+## 🛠️ Tech Stack & Skills
+<div align="center">
+
+  ### 🌐 Frontend Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" height="42" style="vertical-align: middle;" alt="HTML and CSS" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="React" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="JavaScript" />
+</p>
 
 ### ⚙️ Backend Development & Frameworks:
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" alt="Java" />
-<img src="https://skillicons.dev/icons?i=spring,fastapi" width="100" alt="Spring and FastAPI" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" height="42" style="vertical-align: middle;" alt="Spring Boot and FastAPI" />
+</p>
 
 ### 🗄️ Databases:
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" alt="MySQL" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="MySQL" />
+</p>
 
 ### 🔧 DevOps & Tools:
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" alt="Docker" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="Docker" />
+</p>
+
+</div>
 
 ---
 
