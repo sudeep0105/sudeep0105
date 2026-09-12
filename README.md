@@ -53,12 +53,12 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ---
 
-### 👾 Contribution Arcade
+### 📈 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=4">
-  <img alt="github contribution pacman animation" src="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=5">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=5">
 </picture>
 
 ---
