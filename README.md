@@ -14,12 +14,10 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ---
 
-
-
 ## 🛠️ Tech Stack & Skills
 <div align="center">
 
-  ### 🌐 Frontend Development:
+### 🌐 Frontend Development:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" height="42" style="vertical-align: middle;" alt="HTML and CSS" />&nbsp;
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="React" />&nbsp;
@@ -56,9 +54,9 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 ### 📈 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake-dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=5">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=6">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg?v=6">
 </picture>
 
 ---
