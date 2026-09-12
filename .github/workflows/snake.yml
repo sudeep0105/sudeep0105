@@ -2,7 +2,6 @@ name: Generate Pac-Man Animation
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -18,12 +17,14 @@ jobs:
 
     steps:
       - name: Generate pacman contribution grid
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=pacman
-            dist/github-contribution-grid-snake-dark.svg?palette=pacman
+            dist/github-contribution-grid-snake.svg?color_snake=#E5C07B&color_dots=#181A1F,#98C379,#7FBBB3,#D19A66,#E06C75
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFE600&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
