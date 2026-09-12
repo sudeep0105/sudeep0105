@@ -60,3 +60,9 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sudeep0105/sudeep0105/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep0105&theme=tokyonight" alt="GitHub Streak" />
+</p>
