@@ -8,7 +8,7 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ### 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sudeep-k-043220380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sudeep-k)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkata.sudeep.k@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://sudeep0105.github.io/portfolio/)
 
