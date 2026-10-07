@@ -6,11 +6,21 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ---
 
-### 🌐 Connect With Me:
+<h3 align="center">🌐 Connect With Me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sudeep-k)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkata.sudeep.k@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://sudeep0105.github.io/portfolio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkata-sudeep-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:venkata.sudeep.k@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://sudeep0105.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -19,25 +29,35 @@ As a full-stack developer experienced in Java, SQL, and web technologies (HTML, 
 
 ### 🌐 Frontend Development:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" height="42" style="vertical-align: middle;" alt="HTML and CSS" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="React" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React" />
 </p>
 
 ### ⚙️ Backend Development & Frameworks:
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring,fastapi" height="42" style="vertical-align: middle;" alt="Spring Boot and FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" title="FastAPI" />
 </p>
 
 ### 🗄️ Databases:
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
-### 🔧 DevOps & Tools:
+### 🔧 Tools, DevOps & IDEs:
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" style="background-color: #0d1117; border-radius: 10px; padding: 6px;" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven" title="Maven" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker (Basic)" title="Docker (Basic)" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse" title="Eclipse" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" />
 </p>
 
 </div>
