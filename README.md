@@ -1,4 +1,4 @@
-# Hi, I'm Venkata Sudeep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# I'm Venkata Sudeep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=007ACC&width=480&lines=Full+Stack+Java+Developer;Spring+Boot+%26+React+Specialist;Software+Development+Engineer)](https://git.io/typing-svg)
 
